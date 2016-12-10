@@ -2,4 +2,5 @@
 -squeeze lime
 -add salt
 -mix well
+-slice onions
 -enjoy guacamole
