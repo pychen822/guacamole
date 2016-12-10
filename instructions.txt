@@ -3,5 +3,4 @@
 -add salt
 -mix well
 -slice onions
--squeeze orange
 -enjoy guacamole
